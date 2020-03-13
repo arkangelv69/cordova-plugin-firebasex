@@ -122,6 +122,7 @@
 			</config>
 			<pods use-frameworks="true">
 				<pod name="Firebase/Core" spec="6.18.0"/>
+        <pod name="Firebase/Auth" spec="6.18.0"/>
 				<pod name="Firebase/Messaging" spec="6.18.0"/>
 				<pod name="Firebase/Performance" spec="6.18.0"/>
 				<pod name="Firebase/RemoteConfig" spec="6.18.0"/>
